@@ -1,2 +1,4 @@
-## 경소고의 마지막을 기리기위해 개발되었습니다.
-## 경소고 4기 그동안의 정보를 물어보고 볼 수 있습니다.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d8f4a787-39b9-422f-bcb6-6433eb2eea1b" width="30%">
+
+</div>
